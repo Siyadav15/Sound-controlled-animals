@@ -1,0 +1,35 @@
+.copy_right_footer{
+   
+    background-color: chartreuse;
+   font-size: 25px;
+   padding-left: 1200px;
+   text-shadow: 5px 5px 5px crimson;
+   bottom: 0;
+   position: fixed;
+   width: 100%;
+    
+}
+body{
+    background-color:hotpink;
+    font-family: 'Oleo Script Swash Caps', cursive;
+
+}
+.header_div{
+    background:darksalmon;
+    color:blueviolet;
+
+}
+.header_div p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:cornsilk;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
